@@ -14,5 +14,5 @@ Processing 3's graphical library was implemented for displaying graphics
 
 ## Game Play
 <p align="center">
-  <img src = "Pong/MenuScreen.png" width=500/> 
+  <img src = "Pong/PongDemo.png" width=500/> 
 </p>
