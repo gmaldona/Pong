@@ -3,4 +3,6 @@
 Processing 3's graphical library was implemented for displaying graphics 
 
 ## Title Page
-<img src = "Pong/TitleScreen.png" width=250/> 
+<p align="center">
+  <img src = "Pong/TitleScreen.png" width=250/> 
+<\p>
