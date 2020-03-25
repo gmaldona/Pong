@@ -1,6 +1,6 @@
 # A Pong Game Replica 
 
-Processing 3's graphical library was implemented for displaying graphics 
+Processing 3 graphical library was implemented for displaying graphics 
 
 ## Title Page
 <p align="center">
